@@ -68,10 +68,6 @@ to my folder "MMS"
 
 ![PULL](https://github.com/user-attachments/assets/b86b9cda-896a-4880-ae8c-498bc8925baa)
 
-**Step 8:** Open Github on Website, go to "Your repositories", then go to "MMS"
-
-
-
 
 ## **III. Các thuật toán:**
 
