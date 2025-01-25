@@ -68,6 +68,9 @@ to my folder "MMS"
 
 ![PULL](https://github.com/user-attachments/assets/b86b9cda-896a-4880-ae8c-498bc8925baa)
 
+>> **You can watch this video:** 
+
+[![TUTORIAL](https://img.youtube.com/vi/PkLeXGJGeKc/0.jpg)](https://www.youtube.com/watch?v=PkLeXGJGeKc)
 
 ## **III. Các thuật toán:**
 
