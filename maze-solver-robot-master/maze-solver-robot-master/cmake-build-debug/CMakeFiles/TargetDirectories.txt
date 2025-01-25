@@ -1,3 +1,0 @@
-/home/codezen/Working-Directory/FinalProject/maze-solver-robot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/codezen/Working-Directory/FinalProject/maze-solver-robot/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/codezen/Working-Directory/FinalProject/maze-solver-robot/cmake-build-debug/CMakeFiles/maze_solver_robot.dir
